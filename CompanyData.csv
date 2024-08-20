@@ -1,0 +1,1001 @@
+id,employee_id,department,performance_score,years_with_company,salary
+1,49,Human Resources,1.43,27,268
+2,14,Information Technology,0.8,43,357
+3,29,Sales,0.0,3,437
+4,25,Research and Development,1.05,62,186
+5,82,Sales,4.77,4,313
+6,43,Legal,4.93,26,647
+7,81,Marketing,3.97,45,382
+8,27,Customer Service,0.29,68,4
+9,16,Marketing,0.16,68,612
+10,71,Human Resources,1.8,65,198
+11,57,Sales,4.76,43,314
+12,91,Legal,3.97,68,576
+13,82,Information Technology,1.65,63,48
+14,62,Customer Service,2.61,64,597
+15,15,Human Resources,4.64,49,60
+16,15,Legal,1.22,70,391
+17,40,Information Technology,3.76,3,507
+18,18,Legal,2.25,36,390
+19,57,Marketing,1.04,4,944
+20,36,Customer Service,3.09,31,313
+21,48,Public Relations,3.42,25,65
+22,31,Customer Service,3.92,44,943
+23,60,Customer Service,0.13,12,105
+24,32,Human Resources,0.84,64,497
+25,1,Sales,0.33,18,195
+26,18,Research and Development,4.43,20,660
+27,79,Sales,0.36,12,186
+28,25,Information Technology,2.31,49,138
+29,26,Information Technology,4.87,65,766
+30,64,Legal,1.34,7,234
+31,36,Research and Development,1.03,33,869
+32,40,Public Relations,1.94,5,723
+33,50,Finance,1.33,41,521
+34,51,Customer Service,0.98,5,860
+35,37,Public Relations,1.27,9,503
+36,50,Operations,4.01,39,84
+37,59,Finance,2.88,68,359
+38,85,Research and Development,0.72,2,905
+39,8,Human Resources,2.83,13,849
+40,75,Sales,1.72,25,952
+41,61,Marketing,2.16,59,4
+42,12,Operations,4.62,21,561
+43,15,Human Resources,4.27,23,841
+44,16,Finance,1.5,42,72
+45,95,Operations,2.85,27,131
+46,49,Human Resources,0.06,44,848
+47,77,Operations,3.2,21,942
+48,96,Customer Service,0.68,51,513
+49,42,Operations,4.06,5,553
+50,91,Public Relations,1.26,28,391
+51,35,Marketing,4.48,63,186
+52,63,Research and Development,2.92,60,328
+53,29,Operations,2.06,27,679
+54,27,Marketing,3.32,36,68
+55,80,Legal,0.82,8,722
+56,20,Legal,4.03,39,194
+57,86,Human Resources,1.71,34,62
+58,71,Marketing,0.78,7,371
+59,81,Human Resources,0.65,36,349
+60,81,Information Technology,4.51,50,224
+61,25,Information Technology,1.08,8,540
+62,46,Operations,0.77,1,805
+63,26,Research and Development,3.06,23,492
+64,97,Human Resources,3.18,22,301
+65,83,Sales,1.89,36,570
+66,81,Operations,0.37,64,804
+67,20,Human Resources,3.86,19,232
+68,27,Human Resources,2.36,63,989
+69,81,Public Relations,2.9,8,804
+70,82,Legal,4.2,19,823
+71,14,Research and Development,4.78,26,520
+72,16,Finance,0.17,69,235
+73,86,Research and Development,0.6,64,445
+74,85,Legal,1.27,12,621
+75,61,Research and Development,3.36,68,920
+76,47,Customer Service,1.9,63,318
+77,2,Human Resources,4.06,49,238
+78,70,Public Relations,4.92,48,264
+79,72,Operations,2.01,67,899
+80,76,Sales,3.16,64,931
+81,100,Human Resources,4.83,56,685
+82,27,Legal,4.04,10,881
+83,41,Information Technology,4.29,48,178
+84,31,Operations,4.82,60,710
+85,23,Operations,0.83,1,396
+86,71,Marketing,3.79,47,505
+87,97,Operations,2.61,59,532
+88,48,Human Resources,4.37,8,747
+89,19,Marketing,2.72,1,904
+90,67,Sales,2.33,32,17
+91,84,Sales,0.32,39,798
+92,50,Operations,4.13,58,630
+93,41,Operations,3.58,35,581
+94,79,Sales,2.9,42,469
+95,76,Finance,2.33,50,361
+96,67,Customer Service,4.46,58,706
+97,81,Operations,4.35,31,468
+98,62,Human Resources,4.53,2,417
+99,59,Public Relations,1.36,54,669
+100,24,Finance,1.44,48,263
+101,76,Sales,4.63,14,587
+102,70,Finance,0.42,55,847
+103,96,Operations,4.67,59,710
+104,62,Marketing,4.96,58,849
+105,24,Human Resources,1.22,13,380
+106,1,Marketing,0.56,28,919
+107,59,Finance,1.98,41,184
+108,35,Finance,2.95,25,408
+109,46,Public Relations,2.49,29,509
+110,16,Customer Service,3.93,23,759
+111,6,Research and Development,1.24,64,890
+112,74,Human Resources,4.27,46,608
+113,43,Finance,2.49,15,651
+114,69,Information Technology,2.38,9,802
+115,48,Customer Service,3.95,58,663
+116,47,Operations,3.34,68,546
+117,3,Legal,1.65,37,639
+118,92,Customer Service,4.94,19,49
+119,51,Finance,0.39,57,406
+120,63,Legal,2.54,54,221
+121,56,Finance,2.76,54,951
+122,23,Research and Development,2.93,19,94
+123,17,Customer Service,3.06,3,35
+124,77,Human Resources,0.12,16,389
+125,1,Customer Service,4.3,23,840
+126,3,Operations,0.43,16,1
+127,77,Finance,4.74,41,688
+128,13,Public Relations,3.48,65,925
+129,82,Information Technology,0.94,24,903
+130,3,Operations,1.05,39,498
+131,90,Information Technology,0.19,35,461
+132,59,Public Relations,0.38,27,786
+133,26,Research and Development,3.2,62,776
+134,50,Customer Service,1.07,63,609
+135,87,Finance,0.38,67,820
+136,6,Marketing,2.95,27,406
+137,39,Public Relations,2.75,30,208
+138,17,Finance,1.57,34,158
+139,35,Marketing,2.06,40,423
+140,59,Sales,1.14,48,955
+141,46,Finance,3.77,47,895
+142,17,Finance,1.65,37,48
+143,31,Marketing,0.54,26,696
+144,83,Legal,1.63,54,104
+145,69,Research and Development,0.84,35,434
+146,11,Human Resources,0.29,59,239
+147,65,Legal,0.98,63,619
+148,72,Finance,3.13,66,521
+149,91,Research and Development,3.24,25,697
+150,23,Human Resources,1.42,42,464
+151,59,Research and Development,1.05,17,989
+152,30,Public Relations,3.82,46,315
+153,58,Information Technology,0.85,70,90
+154,18,Human Resources,0.47,59,635
+155,90,Public Relations,0.13,23,407
+156,23,Information Technology,1.87,36,140
+157,8,Public Relations,4.54,29,855
+158,32,Customer Service,2.51,30,187
+159,21,Legal,3.92,1,441
+160,18,Customer Service,3.99,27,767
+161,74,Finance,1.82,13,443
+162,66,Customer Service,1.72,13,909
+163,46,Customer Service,1.91,6,340
+164,67,Marketing,3.51,47,371
+165,13,Marketing,3.24,59,31
+166,3,Research and Development,0.66,56,894
+167,1,Information Technology,4.23,19,785
+168,92,Customer Service,3.03,60,175
+169,89,Legal,0.02,38,55
+170,28,Sales,1.47,37,310
+171,93,Customer Service,0.88,50,237
+172,30,Information Technology,4.68,27,276
+173,63,Marketing,1.41,35,762
+174,71,Research and Development,4.42,25,922
+175,10,Legal,1.59,41,925
+176,75,Legal,0.04,45,630
+177,35,Finance,0.01,37,552
+178,55,Public Relations,0.67,39,328
+179,45,Sales,2.37,39,939
+180,32,Operations,4.36,31,901
+181,77,Customer Service,0.88,35,889
+182,70,Legal,0.81,55,368
+183,63,Human Resources,4.49,24,437
+184,37,Public Relations,0.68,4,425
+185,95,Public Relations,4.14,43,366
+186,4,Human Resources,2.37,22,748
+187,46,Operations,0.13,69,393
+188,64,Human Resources,2.98,51,503
+189,68,Legal,2.87,41,902
+190,100,Information Technology,2.43,5,999
+191,48,Marketing,0.12,60,661
+192,49,Finance,1.77,8,66
+193,55,Legal,3.66,26,822
+194,66,Marketing,1.53,28,989
+195,79,Finance,0.99,68,581
+196,33,Research and Development,1.11,59,854
+197,70,Human Resources,2.15,24,557
+198,60,Sales,1.19,19,299
+199,52,Finance,4.41,24,851
+200,86,Finance,2.9,47,601
+201,50,Finance,4.85,36,934
+202,72,Sales,1.45,1,33
+203,18,Sales,1.41,59,531
+204,93,Information Technology,3.86,23,367
+205,68,Sales,4.09,5,822
+206,37,Sales,1.44,28,93
+207,39,Public Relations,1.1,4,495
+208,79,Sales,2.43,63,371
+209,62,Human Resources,3.47,10,683
+210,81,Information Technology,1.01,17,441
+211,14,Human Resources,3.96,65,649
+212,5,Public Relations,2.15,15,596
+213,22,Customer Service,0.62,39,164
+214,89,Sales,3.41,21,728
+215,65,Human Resources,2.16,38,255
+216,89,Finance,2.97,58,693
+217,84,Public Relations,2.77,62,182
+218,44,Customer Service,2.37,4,308
+219,98,Information Technology,2.8,65,507
+220,50,Marketing,0.46,22,525
+221,86,Research and Development,0.42,12,383
+222,9,Customer Service,3.89,42,659
+223,26,Public Relations,3.2,33,855
+224,38,Public Relations,1.87,61,809
+225,21,Legal,3.04,11,479
+226,21,Research and Development,0.75,18,237
+227,46,Marketing,4.18,14,266
+228,43,Operations,1.8,19,272
+229,88,Operations,1.21,44,158
+230,65,Public Relations,3.76,6,37
+231,66,Sales,2.07,58,737
+232,28,Research and Development,4.08,45,180
+233,4,Customer Service,4.92,18,688
+234,43,Sales,2.48,5,137
+235,21,Information Technology,4.56,51,338
+236,48,Customer Service,2.14,66,692
+237,26,Finance,4.39,2,220
+238,12,Information Technology,3.7,8,559
+239,17,Customer Service,4.24,50,709
+240,70,Customer Service,3.67,10,477
+241,21,Human Resources,2.24,56,54
+242,58,Legal,2.86,5,395
+243,100,Finance,2.02,39,755
+244,8,Research and Development,2.56,4,264
+245,43,Information Technology,2.61,2,486
+246,38,Customer Service,1.05,13,68
+247,53,Public Relations,0.73,61,832
+248,94,Customer Service,2.31,1,735
+249,77,Marketing,2.98,64,977
+250,94,Marketing,1.28,56,618
+251,42,Information Technology,1.57,20,454
+252,55,Finance,2.37,16,759
+253,13,Sales,0.74,31,797
+254,57,Sales,1.46,4,776
+255,53,Legal,4.03,39,861
+256,73,Legal,1.28,59,286
+257,85,Information Technology,3.05,25,822
+258,75,Information Technology,0.24,45,197
+259,50,Human Resources,2.63,15,922
+260,11,Customer Service,4.41,31,132
+261,69,Human Resources,0.37,58,100
+262,39,Human Resources,0.79,65,752
+263,74,Information Technology,4.07,36,322
+264,74,Research and Development,0.13,70,978
+265,44,Customer Service,2.7,4,236
+266,95,Finance,4.48,6,415
+267,29,Customer Service,1.84,59,790
+268,47,Sales,0.92,31,68
+269,23,Legal,3.73,66,485
+270,1,Information Technology,2.28,64,380
+271,60,Sales,0.86,28,375
+272,40,Customer Service,1.79,60,147
+273,8,Legal,1.71,18,591
+274,30,Legal,2.43,64,418
+275,67,Research and Development,3.5,61,838
+276,60,Human Resources,1.8,51,365
+277,3,Operations,1.11,17,541
+278,57,Legal,3.83,23,158
+279,77,Information Technology,0.68,63,827
+280,53,Marketing,2.22,61,681
+281,82,Information Technology,2.04,26,904
+282,35,Research and Development,3.0,58,911
+283,92,Finance,4.26,62,203
+284,73,Legal,2.14,40,543
+285,81,Human Resources,0.65,53,65
+286,87,Information Technology,2.05,27,93
+287,92,Legal,3.09,22,632
+288,31,Sales,1.15,36,323
+289,69,Human Resources,0.42,15,86
+290,62,Finance,0.73,13,831
+291,47,Public Relations,0.45,45,313
+292,8,Public Relations,4.35,51,176
+293,54,Finance,0.27,61,682
+294,84,Public Relations,3.09,36,188
+295,65,Information Technology,1.17,53,529
+296,36,Human Resources,0.06,4,472
+297,29,Public Relations,0.25,51,508
+298,36,Marketing,0.72,52,103
+299,14,Marketing,4.06,64,771
+300,34,Marketing,1.12,35,73
+301,58,Human Resources,1.96,19,436
+302,32,Customer Service,3.26,66,825
+303,80,Public Relations,4.98,50,59
+304,4,Information Technology,4.75,61,984
+305,47,Research and Development,3.96,37,371
+306,94,Sales,4.62,64,81
+307,39,Customer Service,2.92,18,718
+308,69,Research and Development,1.71,34,905
+309,82,Customer Service,3.38,53,24
+310,27,Public Relations,2.43,37,282
+311,57,Customer Service,2.87,27,881
+312,81,Customer Service,2.72,42,419
+313,22,Marketing,1.16,70,796
+314,22,Sales,2.98,8,872
+315,40,Information Technology,4.13,45,164
+316,10,Research and Development,2.49,14,923
+317,88,Marketing,4.63,6,221
+318,12,Finance,1.01,58,765
+319,16,Sales,0.37,19,681
+320,95,Marketing,4.15,13,92
+321,6,Research and Development,3.67,29,179
+322,11,Customer Service,4.58,25,185
+323,87,Information Technology,3.24,19,279
+324,88,Finance,0.08,42,779
+325,73,Public Relations,3.41,59,181
+326,72,Sales,4.06,34,695
+327,1,Human Resources,3.38,41,580
+328,57,Legal,4.71,7,237
+329,79,Research and Development,2.18,17,551
+330,62,Customer Service,1.1,16,521
+331,74,Information Technology,2.56,15,359
+332,53,Finance,0.57,60,885
+333,79,Public Relations,2.65,25,772
+334,17,Finance,1.41,9,400
+335,42,Customer Service,1.79,9,100
+336,54,Information Technology,2.88,18,431
+337,90,Public Relations,0.27,5,583
+338,6,Finance,1.42,28,673
+339,16,Customer Service,2.2,14,745
+340,60,Sales,3.54,65,509
+341,42,Research and Development,0.59,24,775
+342,87,Operations,3.44,66,249
+343,80,Operations,3.21,18,818
+344,7,Marketing,0.92,55,192
+345,78,Research and Development,3.17,15,56
+346,66,Sales,1.95,67,872
+347,22,Research and Development,3.27,12,442
+348,33,Marketing,2.4,9,682
+349,26,Customer Service,0.7,11,89
+350,15,Public Relations,3.08,63,468
+351,6,Human Resources,2.41,59,5
+352,43,Human Resources,3.22,12,431
+353,40,Human Resources,0.41,41,515
+354,97,Research and Development,0.68,25,642
+355,9,Marketing,4.54,22,132
+356,49,Research and Development,0.06,34,741
+357,65,Finance,2.77,63,917
+358,25,Sales,0.83,23,698
+359,1,Public Relations,1.67,48,433
+360,11,Public Relations,4.86,40,950
+361,57,Legal,4.53,7,755
+362,55,Information Technology,0.84,61,211
+363,31,Sales,2.84,17,127
+364,23,Operations,3.83,66,609
+365,71,Information Technology,0.56,12,131
+366,34,Sales,1.97,35,841
+367,35,Information Technology,2.26,51,78
+368,52,Research and Development,2.39,8,516
+369,89,Operations,4.46,11,909
+370,30,Research and Development,0.56,23,413
+371,40,Customer Service,1.5,2,827
+372,12,Sales,2.89,55,208
+373,72,Information Technology,3.5,25,342
+374,3,Research and Development,0.2,17,553
+375,48,Public Relations,2.39,24,462
+376,54,Operations,2.9,23,995
+377,95,Research and Development,3.64,12,617
+378,15,Public Relations,1.54,20,607
+379,48,Finance,0.18,67,319
+380,44,Information Technology,0.39,32,43
+381,1,Sales,1.97,57,339
+382,31,Marketing,0.95,46,166
+383,58,Information Technology,3.76,27,137
+384,89,Operations,4.43,9,94
+385,77,Legal,4.9,45,241
+386,63,Research and Development,1.47,13,44
+387,62,Research and Development,2.11,14,756
+388,100,Human Resources,1.04,59,754
+389,27,Sales,1.23,64,824
+390,80,Operations,1.46,63,917
+391,42,Research and Development,3.56,64,830
+392,40,Legal,4.69,37,122
+393,19,Customer Service,3.53,31,460
+394,81,Information Technology,0.42,66,546
+395,96,Human Resources,4.3,62,284
+396,4,Sales,2.38,55,746
+397,95,Sales,2.02,58,35
+398,93,Legal,4.51,60,714
+399,57,Research and Development,4.15,15,153
+400,59,Public Relations,4.7,43,392
+401,74,Research and Development,0.87,43,741
+402,36,Public Relations,3.93,18,129
+403,86,Marketing,2.07,48,692
+404,12,Information Technology,0.93,37,979
+405,83,Human Resources,3.97,31,122
+406,31,Information Technology,3.88,17,539
+407,57,Customer Service,3.78,13,164
+408,20,Information Technology,2.27,62,84
+409,42,Sales,3.14,10,153
+410,59,Sales,4.33,37,454
+411,11,Human Resources,4.15,38,11
+412,77,Finance,0.89,45,971
+413,38,Finance,0.29,26,585
+414,44,Information Technology,0.95,33,35
+415,82,Finance,3.33,69,927
+416,53,Marketing,1.92,42,835
+417,39,Human Resources,1.52,35,509
+418,52,Public Relations,2.93,70,682
+419,57,Customer Service,0.69,39,849
+420,14,Public Relations,2.92,17,451
+421,8,Research and Development,3.56,35,639
+422,89,Public Relations,4.1,54,102
+423,83,Legal,1.34,30,363
+424,89,Human Resources,2.78,17,706
+425,44,Finance,2.38,70,931
+426,33,Human Resources,3.17,57,115
+427,43,Customer Service,0.71,15,635
+428,25,Finance,3.43,24,829
+429,21,Sales,2.96,29,164
+430,59,Marketing,4.29,31,941
+431,93,Legal,0.67,28,41
+432,58,Marketing,0.51,9,195
+433,24,Human Resources,3.8,58,858
+434,85,Public Relations,1.38,30,198
+435,90,Information Technology,2.29,27,690
+436,13,Legal,3.18,40,602
+437,16,Finance,4.7,70,359
+438,32,Customer Service,2.34,45,275
+439,23,Sales,4.12,51,755
+440,57,Information Technology,2.6,48,218
+441,16,Operations,0.38,9,827
+442,57,Research and Development,0.12,10,747
+443,66,Finance,2.17,37,895
+444,70,Information Technology,2.72,10,835
+445,79,Legal,4.61,42,928
+446,81,Information Technology,0.18,7,305
+447,28,Customer Service,4.44,29,798
+448,50,Public Relations,1.65,4,551
+449,49,Information Technology,2.73,31,58
+450,85,Information Technology,1.4,30,931
+451,37,Operations,3.47,3,500
+452,30,Legal,3.03,43,881
+453,69,Finance,1.52,11,630
+454,57,Sales,2.8,6,849
+455,22,Sales,1.58,54,483
+456,11,Public Relations,1.13,32,764
+457,30,Operations,0.55,18,5
+458,36,Research and Development,2.02,48,947
+459,54,Public Relations,1.12,22,393
+460,74,Operations,0.06,21,145
+461,85,Legal,1.95,12,800
+462,73,Human Resources,2.51,19,895
+463,93,Human Resources,3.95,65,273
+464,19,Research and Development,3.45,45,285
+465,89,Legal,0.32,19,346
+466,65,Finance,0.55,39,158
+467,31,Human Resources,0.71,3,241
+468,16,Finance,4.93,18,48
+469,63,Legal,1.17,57,738
+470,5,Sales,3.88,22,559
+471,9,Operations,1.85,64,703
+472,85,Marketing,0.73,10,190
+473,1,Finance,2.8,60,482
+474,91,Customer Service,0.2,1,714
+475,15,Sales,2.95,69,865
+476,48,Information Technology,2.34,10,153
+477,97,Research and Development,1.21,38,998
+478,56,Human Resources,2.62,61,623
+479,76,Sales,4.97,23,792
+480,51,Legal,3.89,12,175
+481,29,Research and Development,3.0,65,764
+482,40,Marketing,2.12,6,818
+483,30,Finance,0.66,43,948
+484,18,Marketing,3.64,49,806
+485,87,Customer Service,4.89,18,636
+486,63,Customer Service,2.13,41,368
+487,23,Research and Development,1.65,15,22
+488,77,Marketing,0.24,35,759
+489,14,Customer Service,4.18,70,513
+490,14,Public Relations,4.26,59,903
+491,72,Finance,2.94,2,700
+492,84,Marketing,3.01,15,192
+493,22,Public Relations,0.59,40,167
+494,26,Finance,4.97,4,120
+495,49,Legal,0.88,35,745
+496,81,Research and Development,4.98,11,866
+497,80,Legal,4.49,3,184
+498,79,Sales,1.24,53,849
+499,71,Information Technology,4.82,10,405
+500,57,Research and Development,1.54,55,185
+501,87,Public Relations,3.46,33,1
+502,89,Finance,0.93,55,301
+503,25,Research and Development,4.47,52,483
+504,21,Finance,1.32,8,800
+505,91,Customer Service,0.23,51,459
+506,92,Research and Development,1.68,58,559
+507,91,Sales,1.34,46,512
+508,75,Finance,3.1,21,593
+509,41,Marketing,1.94,17,967
+510,35,Information Technology,2.92,12,475
+511,32,Finance,2.79,60,545
+512,3,Customer Service,3.28,9,293
+513,83,Sales,1.06,1,113
+514,30,Customer Service,0.38,48,496
+515,85,Marketing,1.63,20,670
+516,65,Operations,4.25,5,627
+517,63,Human Resources,2.29,46,449
+518,94,Public Relations,0.85,28,864
+519,64,Information Technology,1.53,69,216
+520,51,Finance,2.7,68,774
+521,46,Customer Service,3.52,37,737
+522,30,Human Resources,4.7,25,527
+523,28,Finance,3.72,68,897
+524,38,Customer Service,2.45,5,106
+525,3,Information Technology,4.09,47,211
+526,12,Sales,3.91,64,80
+527,82,Public Relations,3.09,33,530
+528,6,Legal,4.83,34,812
+529,52,Marketing,3.37,43,261
+530,97,Research and Development,2.23,4,264
+531,51,Legal,2.81,6,117
+532,60,Research and Development,2.2,30,975
+533,85,Legal,3.13,58,263
+534,64,Operations,0.84,32,991
+535,64,Information Technology,4.56,65,726
+536,14,Customer Service,0.35,65,234
+537,49,Public Relations,1.36,36,116
+538,40,Human Resources,0.5,41,737
+539,84,Research and Development,1.54,17,175
+540,90,Customer Service,1.74,66,274
+541,99,Research and Development,1.64,66,965
+542,58,Marketing,4.32,62,55
+543,42,Research and Development,1.9,47,288
+544,58,Human Resources,0.35,46,606
+545,62,Public Relations,1.99,9,686
+546,9,Marketing,4.13,11,560
+547,61,Finance,1.7,25,942
+548,71,Finance,3.21,37,633
+549,93,Public Relations,1.58,14,255
+550,24,Research and Development,2.38,47,164
+551,23,Finance,0.5,21,436
+552,74,Marketing,2.6,43,696
+553,33,Sales,1.84,49,766
+554,45,Customer Service,0.91,59,834
+555,18,Public Relations,0.51,65,987
+556,62,Customer Service,0.73,61,32
+557,15,Legal,1.64,63,872
+558,72,Customer Service,2.38,32,226
+559,95,Legal,2.77,9,844
+560,76,Legal,3.95,39,709
+561,30,Human Resources,4.31,14,987
+562,12,Finance,2.33,36,737
+563,96,Public Relations,2.42,20,317
+564,71,Marketing,2.3,28,761
+565,89,Public Relations,3.0,67,32
+566,31,Information Technology,2.47,35,313
+567,49,Marketing,1.69,20,455
+568,21,Finance,3.58,48,431
+569,76,Human Resources,1.16,39,954
+570,93,Marketing,4.08,12,982
+571,69,Public Relations,0.93,57,13
+572,96,Marketing,1.26,69,670
+573,30,Finance,1.08,67,823
+574,48,Information Technology,3.2,64,260
+575,82,Finance,1.63,44,798
+576,41,Research and Development,0.75,2,16
+577,15,Customer Service,0.33,12,662
+578,20,Information Technology,0.42,28,32
+579,33,Sales,3.08,59,247
+580,75,Human Resources,1.21,68,672
+581,24,Human Resources,0.68,7,85
+582,58,Public Relations,1.17,53,792
+583,48,Legal,3.1,30,458
+584,35,Customer Service,2.11,17,676
+585,8,Research and Development,3.41,15,249
+586,30,Information Technology,1.28,15,592
+587,92,Marketing,2.05,33,347
+588,78,Finance,2.09,23,786
+589,88,Marketing,2.73,57,33
+590,92,Legal,2.41,40,706
+591,31,Research and Development,3.08,62,663
+592,99,Information Technology,0.55,20,633
+593,22,Public Relations,1.05,45,450
+594,31,Operations,4.55,17,576
+595,42,Research and Development,3.74,29,432
+596,60,Finance,2.94,14,714
+597,87,Marketing,0.11,69,999
+598,8,Human Resources,2.66,61,207
+599,50,Human Resources,2.16,41,461
+600,85,Human Resources,3.37,59,912
+601,92,Public Relations,3.45,61,67
+602,23,Finance,0.61,63,953
+603,46,Finance,2.89,33,318
+604,29,Sales,1.02,13,716
+605,39,Public Relations,0.51,26,708
+606,42,Sales,4.16,7,88
+607,18,Legal,3.44,69,135
+608,40,Sales,2.55,20,594
+609,11,Information Technology,3.52,50,866
+610,2,Legal,1.88,11,446
+611,11,Research and Development,4.26,68,577
+612,86,Public Relations,0.03,48,283
+613,87,Legal,0.46,5,781
+614,80,Sales,4.6,4,859
+615,3,Sales,2.32,29,121
+616,41,Human Resources,4.57,25,32
+617,52,Public Relations,3.33,50,260
+618,82,Marketing,0.5,47,371
+619,96,Customer Service,0.47,23,146
+620,63,Operations,4.76,60,532
+621,94,Public Relations,3.53,55,454
+622,86,Human Resources,1.14,17,234
+623,70,Customer Service,3.41,50,222
+624,59,Customer Service,2.97,44,807
+625,78,Human Resources,1.95,70,522
+626,25,Human Resources,4.04,16,234
+627,13,Sales,1.62,66,792
+628,97,Operations,2.06,15,414
+629,59,Public Relations,0.86,22,552
+630,48,Customer Service,4.85,29,737
+631,28,Marketing,3.29,39,947
+632,4,Finance,4.44,21,905
+633,54,Sales,4.45,66,83
+634,95,Information Technology,2.23,1,567
+635,82,Research and Development,1.03,40,703
+636,51,Research and Development,0.43,55,49
+637,4,Research and Development,4.06,56,423
+638,2,Marketing,1.37,13,896
+639,38,Public Relations,2.53,14,286
+640,60,Research and Development,2.41,26,653
+641,53,Customer Service,3.77,24,318
+642,62,Marketing,2.96,25,774
+643,79,Information Technology,2.14,23,561
+644,59,Marketing,4.09,65,330
+645,75,Customer Service,3.12,10,359
+646,62,Research and Development,4.21,69,780
+647,87,Information Technology,4.72,63,883
+648,62,Information Technology,4.62,14,640
+649,5,Information Technology,1.97,66,619
+650,76,Human Resources,4.81,13,546
+651,28,Human Resources,4.67,48,634
+652,48,Customer Service,3.73,56,205
+653,98,Finance,0.02,4,544
+654,99,Sales,4.48,58,46
+655,100,Legal,3.65,65,208
+656,66,Marketing,0.78,11,641
+657,20,Human Resources,0.47,9,296
+658,98,Information Technology,2.27,53,189
+659,84,Information Technology,2.91,9,278
+660,78,Customer Service,2.17,10,487
+661,10,Operations,3.61,30,973
+662,98,Public Relations,4.11,11,546
+663,91,Finance,0.68,17,622
+664,41,Customer Service,0.18,20,166
+665,1,Finance,2.92,17,389
+666,50,Marketing,0.26,40,908
+667,58,Sales,4.36,63,255
+668,74,Operations,4.37,69,680
+669,19,Operations,0.3,1,946
+670,90,Public Relations,3.4,30,211
+671,93,Public Relations,1.37,68,530
+672,35,Human Resources,0.25,59,266
+673,38,Operations,3.39,65,69
+674,4,Human Resources,1.44,68,116
+675,96,Finance,0.76,6,914
+676,54,Public Relations,4.62,30,741
+677,78,Marketing,2.8,15,796
+678,18,Finance,2.6,65,214
+679,72,Public Relations,2.34,40,49
+680,94,Sales,3.01,10,760
+681,79,Marketing,4.0,67,45
+682,57,Information Technology,3.64,58,541
+683,50,Operations,0.97,9,576
+684,96,Finance,1.62,63,460
+685,62,Finance,3.7,36,278
+686,27,Sales,3.77,39,710
+687,46,Finance,1.32,15,190
+688,37,Finance,1.78,59,111
+689,14,Operations,4.78,35,149
+690,69,Information Technology,1.81,15,428
+691,29,Public Relations,4.61,39,507
+692,88,Customer Service,4.79,15,770
+693,55,Sales,3.39,15,255
+694,95,Human Resources,2.6,48,535
+695,40,Sales,0.59,66,637
+696,37,Sales,1.72,21,772
+697,51,Human Resources,1.21,52,20
+698,91,Legal,3.49,57,377
+699,16,Information Technology,4.61,36,409
+700,94,Public Relations,3.4,69,122
+701,62,Human Resources,3.24,16,922
+702,65,Human Resources,2.92,57,410
+703,51,Public Relations,1.71,32,32
+704,40,Research and Development,3.27,33,597
+705,49,Information Technology,3.77,70,162
+706,97,Human Resources,1.08,49,501
+707,11,Research and Development,3.86,52,958
+708,66,Information Technology,4.12,17,832
+709,94,Public Relations,2.89,10,141
+710,9,Customer Service,0.75,26,59
+711,85,Sales,0.3,43,888
+712,59,Finance,4.75,45,481
+713,4,Operations,4.07,64,698
+714,72,Operations,1.84,11,862
+715,80,Public Relations,2.77,61,997
+716,52,Operations,0.24,63,705
+717,12,Information Technology,1.69,16,724
+718,70,Human Resources,3.43,49,804
+719,9,Marketing,4.17,17,475
+720,42,Marketing,4.69,65,236
+721,19,Public Relations,1.41,47,364
+722,77,Information Technology,1.4,7,718
+723,39,Information Technology,2.87,5,157
+724,66,Sales,3.24,62,832
+725,68,Sales,0.77,50,24
+726,39,Finance,3.15,1,468
+727,8,Sales,1.92,56,502
+728,41,Customer Service,3.59,7,519
+729,84,Research and Development,3.97,61,208
+730,84,Public Relations,0.51,55,257
+731,50,Legal,0.54,6,4
+732,85,Information Technology,0.92,18,889
+733,79,Human Resources,0.28,17,341
+734,79,Operations,0.06,19,908
+735,70,Finance,2.96,36,715
+736,86,Marketing,4.39,52,803
+737,18,Public Relations,2.19,57,790
+738,28,Information Technology,4.41,29,780
+739,74,Human Resources,4.71,45,882
+740,18,Information Technology,1.94,23,489
+741,28,Finance,1.36,24,597
+742,69,Information Technology,2.14,30,808
+743,43,Sales,1.02,1,611
+744,13,Sales,1.14,39,76
+745,74,Marketing,3.92,13,315
+746,22,Human Resources,3.32,25,323
+747,45,Research and Development,3.46,12,574
+748,64,Finance,1.81,47,22
+749,65,Finance,0.06,43,81
+750,33,Human Resources,2.97,28,247
+751,80,Operations,4.86,20,443
+752,76,Legal,1.97,44,368
+753,91,Finance,2.73,2,810
+754,59,Human Resources,4.67,70,429
+755,9,Information Technology,2.41,65,79
+756,66,Human Resources,1.49,6,970
+757,88,Operations,4.94,52,546
+758,10,Research and Development,4.68,11,852
+759,73,Finance,0.73,31,552
+760,1,Human Resources,4.84,42,920
+761,10,Operations,4.44,33,978
+762,17,Sales,1.94,34,621
+763,56,Marketing,1.66,19,100
+764,22,Information Technology,3.68,3,607
+765,2,Finance,2.06,42,897
+766,73,Public Relations,3.07,25,673
+767,20,Customer Service,1.56,8,600
+768,85,Marketing,0.15,7,123
+769,58,Customer Service,1.93,51,654
+770,84,Public Relations,4.99,53,891
+771,4,Human Resources,0.59,33,823
+772,78,Operations,1.52,66,630
+773,1,Finance,3.15,68,512
+774,83,Research and Development,2.75,30,129
+775,86,Information Technology,0.34,50,165
+776,17,Information Technology,4.83,28,112
+777,14,Human Resources,2.83,12,276
+778,59,Marketing,4.71,38,416
+779,65,Customer Service,4.24,5,685
+780,12,Marketing,3.78,44,683
+781,89,Operations,2.6,23,995
+782,2,Customer Service,2.17,65,570
+783,55,Finance,3.6,51,629
+784,48,Sales,1.72,22,817
+785,69,Information Technology,2.12,70,379
+786,38,Public Relations,4.17,22,472
+787,48,Operations,1.59,24,973
+788,88,Public Relations,0.54,68,702
+789,42,Sales,2.48,6,911
+790,26,Customer Service,1.72,69,811
+791,62,Legal,0.23,37,906
+792,22,Operations,3.11,61,403
+793,40,Sales,2.08,26,462
+794,39,Customer Service,3.52,32,251
+795,53,Research and Development,2.64,65,609
+796,22,Operations,3.77,57,874
+797,96,Marketing,2.2,34,330
+798,74,Human Resources,0.73,35,450
+799,67,Information Technology,3.73,37,98
+800,47,Marketing,3.37,50,94
+801,35,Human Resources,2.01,24,148
+802,75,Legal,4.83,4,177
+803,91,Legal,4.69,36,625
+804,90,Customer Service,2.22,27,743
+805,72,Sales,1.66,9,327
+806,29,Research and Development,2.48,36,885
+807,85,Marketing,1.22,5,99
+808,7,Operations,2.01,25,694
+809,80,Research and Development,2.24,11,542
+810,35,Marketing,2.46,27,928
+811,53,Public Relations,3.51,9,606
+812,80,Public Relations,2.19,52,269
+813,49,Human Resources,2.3,11,377
+814,25,Sales,3.73,36,524
+815,92,Public Relations,2.04,65,131
+816,47,Information Technology,3.51,68,688
+817,23,Finance,1.7,25,911
+818,5,Marketing,2.83,45,366
+819,4,Research and Development,3.87,63,121
+820,77,Finance,4.36,19,345
+821,64,Public Relations,1.54,24,697
+822,33,Human Resources,1.49,55,82
+823,89,Operations,1.66,28,524
+824,95,Public Relations,4.99,66,1000
+825,66,Information Technology,0.58,10,427
+826,39,Human Resources,4.24,44,659
+827,19,Human Resources,0.95,54,27
+828,75,Finance,0.81,27,263
+829,21,Information Technology,3.44,67,110
+830,95,Finance,1.52,45,490
+831,82,Research and Development,2.44,14,303
+832,15,Operations,3.74,46,34
+833,58,Marketing,3.49,5,257
+834,79,Information Technology,0.06,46,52
+835,66,Information Technology,2.6,5,498
+836,15,Public Relations,2.65,67,199
+837,15,Public Relations,1.45,66,725
+838,93,Public Relations,0.7,65,485
+839,55,Public Relations,3.95,50,975
+840,30,Operations,0.31,2,921
+841,81,Customer Service,1.99,60,374
+842,19,Marketing,4.76,13,136
+843,74,Marketing,3.94,36,348
+844,22,Legal,0.61,7,931
+845,8,Legal,4.51,2,284
+846,73,Legal,3.18,70,801
+847,3,Information Technology,1.76,32,321
+848,68,Human Resources,2.28,59,581
+849,77,Human Resources,2.62,59,971
+850,88,Public Relations,1.47,21,175
+851,91,Operations,1.88,5,347
+852,83,Sales,4.25,57,910
+853,13,Research and Development,3.7,17,243
+854,74,Operations,2.7,30,492
+855,32,Public Relations,4.39,62,23
+856,55,Research and Development,4.82,59,739
+857,21,Operations,2.21,52,263
+858,19,Customer Service,3.57,54,289
+859,46,Human Resources,3.21,4,478
+860,49,Research and Development,3.08,15,146
+861,44,Research and Development,0.97,14,94
+862,21,Marketing,0.67,35,119
+863,60,Public Relations,0.73,39,122
+864,76,Customer Service,2.76,41,851
+865,95,Human Resources,3.4,22,887
+866,45,Sales,0.9,34,209
+867,46,Customer Service,1.87,27,612
+868,31,Human Resources,3.69,7,805
+869,8,Legal,1.84,26,861
+870,60,Information Technology,1.84,31,576
+871,88,Research and Development,3.06,27,683
+872,71,Information Technology,3.08,43,15
+873,6,Research and Development,2.81,68,395
+874,46,Information Technology,1.12,45,992
+875,27,Research and Development,3.46,42,910
+876,10,Marketing,1.3,3,609
+877,52,Legal,3.03,50,52
+878,81,Finance,1.39,58,216
+879,39,Marketing,4.53,32,213
+880,51,Marketing,1.48,42,492
+881,81,Information Technology,0.43,20,422
+882,56,Information Technology,0.13,21,179
+883,72,Marketing,0.76,67,901
+884,73,Human Resources,1.74,43,68
+885,41,Finance,3.73,20,381
+886,94,Sales,4.36,33,423
+887,74,Information Technology,4.51,2,382
+888,68,Information Technology,1.72,22,118
+889,32,Legal,0.73,28,227
+890,71,Public Relations,4.07,22,493
+891,45,Marketing,1.84,23,162
+892,48,Sales,3.72,16,318
+893,3,Information Technology,3.22,3,272
+894,40,Operations,2.49,62,971
+895,95,Operations,4.4,33,739
+896,44,Legal,2.71,22,426
+897,64,Legal,1.25,35,917
+898,35,Legal,2.03,41,894
+899,31,Sales,2.23,53,53
+900,56,Customer Service,0.42,4,393
+901,89,Information Technology,2.95,34,355
+902,89,Operations,0.87,9,840
+903,58,Sales,0.62,26,193
+904,16,Operations,1.3,14,686
+905,15,Finance,0.08,9,491
+906,14,Legal,4.49,30,723
+907,52,Research and Development,4.71,66,956
+908,26,Legal,1.41,43,343
+909,50,Customer Service,3.96,30,313
+910,25,Operations,2.44,16,593
+911,98,Human Resources,0.05,35,872
+912,19,Marketing,1.92,37,28
+913,86,Research and Development,3.45,2,322
+914,61,Research and Development,4.32,65,737
+915,34,Public Relations,4.2,13,809
+916,24,Operations,1.96,30,386
+917,91,Sales,2.15,65,358
+918,52,Sales,0.84,70,47
+919,37,Legal,4.12,4,49
+920,46,Marketing,4.77,30,134
+921,55,Information Technology,2.86,60,571
+922,21,Human Resources,2.44,22,856
+923,22,Legal,0.61,31,756
+924,93,Legal,2.31,59,418
+925,49,Human Resources,0.65,18,330
+926,25,Marketing,2.96,59,253
+927,42,Legal,1.82,42,807
+928,81,Research and Development,1.37,57,357
+929,94,Finance,2.05,31,705
+930,67,Operations,4.48,65,194
+931,99,Research and Development,1.64,60,333
+932,8,Legal,4.23,66,729
+933,23,Human Resources,2.92,62,169
+934,73,Information Technology,4.0,16,280
+935,45,Information Technology,1.33,13,335
+936,81,Research and Development,3.21,53,11
+937,87,Public Relations,2.01,32,200
+938,83,Marketing,4.73,9,881
+939,26,Sales,1.93,16,617
+940,82,Human Resources,4.01,41,123
+941,13,Operations,2.01,34,117
+942,92,Customer Service,2.57,24,533
+943,32,Information Technology,3.73,8,549
+944,97,Finance,0.38,65,929
+945,60,Customer Service,4.83,10,297
+946,84,Legal,4.87,15,562
+947,79,Research and Development,3.97,21,24
+948,10,Operations,3.42,21,923
+949,69,Public Relations,4.63,41,831
+950,34,Sales,3.1,8,635
+951,55,Public Relations,2.45,6,396
+952,98,Information Technology,0.86,26,799
+953,5,Customer Service,2.15,38,804
+954,14,Information Technology,3.06,39,867
+955,97,Customer Service,0.8,23,520
+956,75,Legal,1.0,6,272
+957,36,Finance,1.3,30,521
+958,48,Sales,3.74,25,860
+959,73,Legal,2.1,53,585
+960,27,Legal,3.5,35,346
+961,76,Finance,2.63,47,191
+962,48,Customer Service,4.64,14,389
+963,86,Marketing,2.46,48,802
+964,63,Information Technology,2.07,44,554
+965,57,Research and Development,1.77,5,789
+966,95,Human Resources,0.48,2,584
+967,38,Human Resources,4.23,69,104
+968,6,Sales,1.05,17,648
+969,29,Sales,3.52,48,256
+970,95,Research and Development,1.92,45,522
+971,46,Finance,2.56,39,880
+972,39,Research and Development,1.61,53,370
+973,22,Legal,2.61,58,148
+974,68,Legal,0.52,50,775
+975,15,Legal,1.82,7,429
+976,81,Information Technology,3.85,23,844
+977,42,Sales,3.81,15,561
+978,83,Sales,1.99,19,777
+979,69,Finance,0.34,24,423
+980,19,Customer Service,1.71,57,826
+981,21,Customer Service,0.73,54,926
+982,43,Operations,3.39,10,628
+983,24,Information Technology,2.04,10,853
+984,57,Marketing,3.11,39,839
+985,55,Research and Development,0.44,12,980
+986,63,Legal,3.99,13,56
+987,72,Human Resources,0.29,52,267
+988,11,Operations,2.95,57,242
+989,97,Information Technology,1.41,29,308
+990,42,Operations,1.51,65,712
+991,95,Research and Development,1.61,50,218
+992,75,Sales,0.62,69,352
+993,73,Research and Development,0.35,54,361
+994,33,Finance,2.34,36,181
+995,90,Public Relations,3.73,41,261
+996,34,Customer Service,0.75,30,301
+997,43,Sales,2.78,1,147
+998,19,Customer Service,0.86,3,462
+999,25,Finance,0.59,21,49
+1000,65,Finance,0.25,5,665
